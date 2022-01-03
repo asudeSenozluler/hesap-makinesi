@@ -1,0 +1,9 @@
+C:\Users\asus\Desktop\udemy kurs\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Users\asus\Desktop\udemy kurs\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\asus\Desktop\udemy kurs\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\asus\Desktop\udemy kurs\deneme\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\udemy kurs\deneme\deneme\obj\Debug\deneme.Form1.resources
+C:\Users\asus\Desktop\udemy kurs\deneme\deneme\obj\Debug\deneme.Properties.Resources.resources
+C:\Users\asus\Desktop\udemy kurs\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\udemy kurs\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\asus\Desktop\udemy kurs\deneme\deneme\obj\Debug\deneme.pdb

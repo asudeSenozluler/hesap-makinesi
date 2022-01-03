@@ -1,0 +1,6 @@
+C:\Users\asus\Desktop\udemy kurs\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Users\asus\Desktop\udemy kurs\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\asus\Desktop\udemy kurs\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\hesap makinesi\deneme\bin\Debug\deneme.exe.config
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\hesap makinesi\deneme\obj\Debug\deneme.exe
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\hesap makinesi\deneme\obj\Debug\deneme.pdb
